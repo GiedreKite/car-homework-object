@@ -1,0 +1,14 @@
+{
+    "name": "car-homework-object",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node --watch ./index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Giedre (https://github.com/GiedreKite)",
+    "license": "MIT"
+}
