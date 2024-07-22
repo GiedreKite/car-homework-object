@@ -1,6 +1,9 @@
 
 
 export class Car {
+    int fuelTank;
+    string brand = '';
+    //getter ir setter
     constructor(marke, modelis, spalva) {
         this.brand = marke;
         this.model = modelis;
